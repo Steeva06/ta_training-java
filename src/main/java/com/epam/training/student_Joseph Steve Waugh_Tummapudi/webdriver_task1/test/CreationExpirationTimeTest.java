@@ -1,7 +1,7 @@
-package com.epam.training.task1.test;
+package com.epam.training.webdriver_task1.test;
 
-import com.epam.training.task1.page.PastebinHomePage;
-import com.epam.training.task1.testdata.TestConstants;
+import com.epam.training.webdriver_task1.page.PastebinHomePage;
+import com.epam.training.webdriver_task1.testdata.TestConstants;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
