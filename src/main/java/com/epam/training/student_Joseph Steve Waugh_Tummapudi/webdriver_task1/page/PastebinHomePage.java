@@ -1,4 +1,4 @@
-package com.epam.training.task1.page;
+package com.epam.training.webdriver_task1.page;
 
 import org.openqa.selenium.TimeoutException;
 import org.openqa.selenium.WebDriver;
